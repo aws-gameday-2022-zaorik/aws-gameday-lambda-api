@@ -6,7 +6,6 @@ import { VpcStack } from '../lib/vpc';
 
 const baseProps: StackProps = {
   env: {
-    account: '',
     region: 'ap-northeast-1'
   }
 }
